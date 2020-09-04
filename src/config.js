@@ -11,7 +11,7 @@ export const providerOptions = {
   walletconnect: {
     package: WalletConnectProvider, // required
     options: {
-      infuraId: '29a7f0c37b214a90934bec1b032d5c8f' // required
+      infuraId: '7209a3d2080242339e6376a01e8382d0' // required
     }
   },
   fortmatic: {
